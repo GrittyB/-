@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "550c3178b9ec40dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4470a8f777fdc129",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14294fd55b51d27d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trick/求和,不等式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67a225544a716261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fun/新俄罗斯方块.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "605322d8c20da053",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eb02edce13f06a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7103bc8e6c097c4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6af44d21f940c5d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5
+  },
+  "right": {
+    "id": "433c05b0e0a09ae6",
+    "type": "split",
+    "children": [
+      {
+        "id": "41ec280d6b38fe61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c081988d67eba38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fun/新俄罗斯方块.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36a6176f9a62778e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fun/新俄罗斯方块.md"
+              }
+            }
+          },
+          {
+            "id": "54ccf9de530567e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "67a225544a716261",
+  "lastOpenFiles": [
+    "Trick/求和,不等式.md",
+    "Trick/😀Index.md",
+    "📄 About this.md",
+    "README.md",
+    "Extras/Draws/Drawing 2023-01-20 19.34.45.excalidraw.md",
+    "Problems/2022天梯-L2-1 插松枝.md",
+    "Problems/力扣-6195. 对字母串可执行的最大删除数.md",
+    "Problems/力扣-2532. 过桥的时间.md",
+    "TODO/🗺️ Todo.md",
+    "Notes/动态规划/背包DP.md"
+  ]
+}
